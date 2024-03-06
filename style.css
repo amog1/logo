@@ -1,0 +1,60 @@
+html {
+  background-image: url(images/background.jpg);
+}
+div {
+  background-color: white;
+  text-align: center;
+}
+.one {
+  width: 610px;
+  height: 300px;
+  margin: auto;
+  background-color: rgb(119, 7, 122);
+  padding: 10px;
+  color: white;
+}
+body {
+  margin: auto;
+  border: 2px double rgb(230, 40, 220);
+  width: 600px;
+  border-radius: 30px;
+  padding: 10px;
+  background-color: white;
+}
+img {
+  width: 80px;
+  margin: auto;
+}
+.big {
+  width: 500px;
+  margin: auto;
+}
+.two {
+  padding: 50px;
+}
+button {
+  background-color: green;
+  color: white;
+  border-radius: 2px;
+  border: 2px double white;
+  font-size: 20px;
+  padding: 10px;
+}
+span {
+  font-weight: bold;
+}
+input {
+  background-color: rgba(255, 255, 255, 0.8);
+}
+a {
+  text-decoration: none;
+  color: white;
+}
+a:hover {
+  text-decoration: underline;
+  background-color: yellow;
+  color: black;
+}
+button:hover {
+  cursor: pointer;
+}
